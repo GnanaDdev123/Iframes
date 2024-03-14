@@ -1,0 +1,18 @@
+#menu{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+iframe{
+    height: 315px;
+    width: 560px;
+}
+h4{
+    font-size: 20px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+td,th{
+    border: 1px solid black;
+}
